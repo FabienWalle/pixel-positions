@@ -8,6 +8,6 @@
         <div>
             <x-tag>Tag</x-tag>
         </div>
-        <img src="https://placeholder.pics/svg/42x42/DEDEDE/555555/42*42" alt="" class="rounded-xl">
+        <x-employer-logo :width="42"/>
     </div>
 </div>
